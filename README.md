@@ -3,3 +3,6 @@ A script to get public holidays and import them into Teams Phone system as timer
 
 ## Wijziging
 Dit is een wijziging de Readme-file. 
+
+## Extra regel
+Extra regel met meer informatie :)
