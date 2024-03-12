@@ -5,4 +5,4 @@ A script to get public holidays and import them into Teams Phone system as timer
 Dit is een wijziging de Readme-file. 
 
 ## Extra regel
-Extra regel met meer informatie :)
+Dit is een nieuwe ontwikkeling.
